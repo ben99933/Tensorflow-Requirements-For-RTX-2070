@@ -8,19 +8,7 @@ The repository includes a `requirements.txt` file containing essential Python pa
 ## Usage
 To use the provided requirements file:
 
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your-username/Tensorflow-Requirements-For-RTX-2070.git
-    ```
-
-2. Navigate to the cloned directory:
-
-    ```bash
-    cd Tensorflow-Requirements-For-RTX-2070
-    ```
-
-3. Install the requirements using pip:
+1. Install the requirements using pip:
 
     ```bash
     pip install -r requirements.txt
