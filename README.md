@@ -27,6 +27,7 @@ The `requirements.txt` file includes the following important dependencies along 
 - **opencv-python (4.9.0.80)**
 - **requests (2.31.0)**
 - **Keras-Preprocessing (1.1.2)**
+- **keras-tuner (1.3.3)**
 
 Ensure that your Python environment meets these dependencies for smooth execution of Tensorflow projects on RTX 2070 GPUs.
 
